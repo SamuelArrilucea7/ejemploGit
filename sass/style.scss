@@ -1,0 +1,19 @@
+@use "resetear";
+
+.footer {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    /*position: relative;
+    height: 186px;
+    width: 280px;
+    margin: auto;
+    max-width: 1000px;
+    min-width: 240px;
+    top: 15px;*/
+    background: #e0e0e7;
+    /*#391E61;*/
+    color: crimson;
+}
